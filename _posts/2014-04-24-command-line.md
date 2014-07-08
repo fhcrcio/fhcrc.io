@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Introduction to the command line
-categories: articles beginner shell
 ---
 
 Powerful things happen with computers on the "command line".
