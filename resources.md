@@ -18,6 +18,7 @@ Most classes meet for 1-2 hours a week for 3-4 weeks; see the class listings bel
 - [Introduction to R](#introduction-to-r)
 - [Introduction to Python](#introduction-to-python)
 - [Intermediate Python: Programming](#intermediate-python-programming)
+- [Intermediate Python: Machine Learning](#intermediate-python-machine-learning)
 - [Software Carpentry Bootcamp: Unix, Git, and Python](#software-carpentry-bootcamp-unix-git-and-python)
 
 **Retired and archived training materials**
@@ -70,6 +71,15 @@ This four-week course focuses on task automation using Python programming. Each 
 * Week 2: Analyzing data from multiple files, conditional statements, creating functions
 * Week 3: Errors and exceptions, defensive programming
 * Week 4: Debugging, modules/packaging for reproducibility
+
+#### Intermediate Python: Machine Learning
+
+This four week course introduces participants to implementation of machine learning methods in Python using Jupyter Notebooks. Each two hour session will include brief tutorials interspersed with challenge exercises, and assumes attendees are familiar with basic Python syntax, using packages, and basic data manipulation using Pandas. The course also assumes a strong foundation in basic statistics as well as prior/concurrent participation in the fredhutch.io course Concepts in Machine Learning (or equivalent experience). At the end of this course, you will be able to apply basic principles of machine learning to research questions and will have established a foundation for further exploration of machine learning techniques. Course materials [here](https://github.com/fredhutchio/python_machine_learning).
+
+- Week 1: Conceptual Overview; CRISP-DM framework; EDA; Our Tools
+- Week 2: Case Study in Regression
+- Week 3: Case Study in Classification
+- Week 4: Case Study in Deep Learning and Transfer Learning
 
 #### Software Carpentry Bootcamp: Unix, Git, and Python
 
