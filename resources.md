@@ -9,17 +9,20 @@ This page contains course descriptions for fredhutch.io classes. If you're inter
 
 Most classes meet for 1-2 hours a week for 3-4 weeks; see the class listings below for more information. If you are a Fred Hutch or SCCA employee, you can register for classes in [Hutch Learning](https://centernet.fredhutch.org/cn/u/training/access-hutch-learning.html) (internal link). We schedule classes 2-4 weeks in advance, so the class in which you are interested may not be available right now. We recommend adding your name to the interest tracking system so you will receive a notification when the course is available again. If the class in which you are interested in currently full, add your name to the waitlist so we can add you if someone drops. We announce new classes in the monthly [Coop newsletter](https://research.fhcrc.org/coop/en/newsletter.html).
 
+**Concepts courses**
 - [Data for Data Science](#data-for-data-science)
+- [Concepts in Machine Learning](#concepts-in-machine-learning)
+- [Introduction to Git and GitHub](#introduction-to-git-and-github)
+
+**Coding courses**
 - [Introduction to R](#introduction-to-r)
 - [Introduction to Python](#introduction-to-python)
 - [Intermediate Python: Programming](#intermediate-python-programming)
-- [Introduction to Git and GitHub](#introduction-to-git-and-github)
-- [Concepts in Machine Learning](#concepts-in-machine-learning)
 - [Software Carpentry Bootcamp: Unix, Git, and Python](#software-carpentry-bootcamp-unix-git-and-python)
-- [Retired and archived training materials](#retired-and-archived-training-materials)
 
+**Retired and archived training materials**
 
-### Current curriculum
+Earlier versions of courses, as well as classes that are no longer offered, are available for reference [here](#retired-and-archived-training-materials).
 
 #### Data for Data Science
 
@@ -29,6 +32,20 @@ Researchers face a growing data management challenge, starting with data collect
 * Week 3: Documenting data with metadata
 * Week 4: Data manipulation and reproducibility
 
+#### Concepts in Machine Learning
+
+This four week course is designed to introduce attendees to central concepts in machine learning as well as examples of applications in biomedical research. Each one hour lecture will emphasize conceptual and practical aspects of machine learning paradigms, explore the foundations of underlying mechanisms, and look at current or potential applications through examples or case studies. The course assumes a strong foundation in basic statistics, but does not assume any prior coding experience. At the end of this course, you will be able to understand the core differences between different forms of machine learning and consider their application with respect to a variety of problem spaces. This course (or equivalent knowledge/preparation) is intended as a prerequisite for future courses covering machine learning skills in both R and Python. Course materials [here](https://github.com/fredhutchio/concepts_machine_learning).
+* Week 1: Introduction and Conceptual Overview; Machine Learning and Experimental Design
+* Week 2: Case Study in Classification
+* Week 3: Case Study in Regression
+* Week 4: Case Study in Deep Learning and Transfer Learning
+
+#### Introduction to Git and GitHub
+
+This two-week course (with optional third week session) is designed to introduce attendees to git version control software and GitHub as a repository for code and/or data. Each two hour session will include brief tutorials interspersed with challenge exercises. The first two sessions assume no prior programming knowledge. At the end of these two sessions, you will be able to use git to track changes to software and other files, and use GitHub to work collaboratively to publish repositories of code and/or data. The optional third session assumes attendees have a basic familiarity with using the command line to navigate through directories and work with files and will include an overview of the command line interface to access the full functionality of the git software. Course materials [here](https://github.com/fredhutchio/git_github_intro).
+* Week 1: introduction to version control, git workflow with desktop clients (tracking changes, branching, merging, ignoring things)
+* Week 2: Collaboration and code sharing with GitHub, resolving conflicts
+* Week 3 (optional): git workflow on the command line
 
 #### Introduction to R
 
@@ -37,7 +54,6 @@ This four-week course is designed to introduce attendees to R statistical progra
 * Week 2: Data types and structures; slicing and subsetting data
 * Week 3: Data manipulation with dplyr
 * Week 4: Data visualization in ggplot2
-
 
 #### Introduction to Python
 
@@ -54,21 +70,6 @@ This four-week course focuses on task automation using Python programming. Each 
 * Week 2: Analyzing data from multiple files, conditional statements, creating functions
 * Week 3: Errors and exceptions, defensive programming
 * Week 4: Debugging, modules/packaging for reproducibility
-
-#### Introduction to Git and GitHub
-
-This two-week course (with optional third week session) is designed to introduce attendees to git version control software and GitHub as a repository for code and/or data. Each two hour session will include brief tutorials interspersed with challenge exercises. The first two sessions assume no prior programming knowledge. At the end of these two sessions, you will be able to use git to track changes to software and other files, and use GitHub to work collaboratively to publish repositories of code and/or data. The optional third session assumes attendees have a basic familiarity with using the command line to navigate through directories and work with files and will include an overview of the command line interface to access the full functionality of the git software. Course materials [here](https://github.com/fredhutchio/git_github_intro).
-* Week 1: introduction to version control, git workflow with desktop clients (tracking changes, branching, merging, ignoring things)
-* Week 2: Collaboration and code sharing with GitHub, resolving conflicts
-* Week 3 (optional): git workflow on the command line
-
-#### Concepts in Machine Learning
-
-This four week course is designed to introduce attendees to central concepts in machine learning as well as examples of applications in biomedical research. Each one hour lecture will emphasize conceptual and practical aspects of machine learning paradigms, explore the foundations of underlying mechanisms, and look at current or potential applications through examples or case studies. The course assumes a strong foundation in basic statistics, but does not assume any prior coding experience. At the end of this course, you will be able to understand the core differences between different forms of machine learning and consider their application with respect to a variety of problem spaces. This course (or equivalent knowledge/preparation) is intended as a prerequisite for future courses covering machine learning skills in both R and Python. Course materials [here](https://github.com/fredhutchio/concepts_machine_learning).
-* Week 1: Introduction and Conceptual Overview; Machine Learning and Experimental Design
-* Week 2: Case Study in Classification
-* Week 3: Case Study in Regression
-* Week 4: Case Study in Deep Learning and Transfer Learning
 
 #### Software Carpentry Bootcamp: Unix, Git, and Python
 
