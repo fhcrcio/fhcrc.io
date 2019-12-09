@@ -74,12 +74,11 @@ This four-week course focuses on task automation using Python programming. Each 
 
 #### Intermediate Python: Machine Learning
 
-This four week course is designed to introduce attendees to central concepts in machine learning as well as examples of applications in biomedical research. Each one hour lecture will emphasize conceptual and practical aspects of machine learning paradigms, explore the foundations of underlying mechanisms, and look at current or potential applications through examples or case studies. The course assumes a solid foundation in basic statistics, but does not assume any prior coding experience. At the end of this course, you will be able to understand the core differences between different forms of machine learning and consider their application with respect to a variety of problem spaces. This course (or equivalent knowledge/preparation) is intended as a prerequisite for future courses covering machine learning skills in both R and Python. Course materials [here](https://github.com/fredhutchio/python_machine_learning).
-
-- Week 1: Introduction and Conceptual Overview; Machine Learning and Experimental Design
-- Week 2: Supervised Learning via Regression
-- Week 3: Supervised Learning via Classification
-- Week 4: Unsupervised Learning via Dimensionality Reduction, Clustering, and Transfer Learning
+This four week course introduces participants to implementation of machine learning methods in Python using Jupyter Notebooks. Each two hour session will include brief tutorials interspersed with challenge exercises, and assumes attendees are familiar with basic Python syntax, using packages, and basic data manipulation using Pandas. The course also assumes a strong foundation in basic statistics as well as prior/concurrent participation in the fredhutch.io course Concepts in Machine Learning (or equivalent experience). At the end of this course, you will be able to apply basic principles of machine learning to research questions and will have established a foundation for further exploration of machine learning techniques. Course materials [here](https://github.com/fredhutchio/python_machine_learning). Course materials [here](https://github.com/fredhutchio/python_machine_learning).
+- Week 1: Conceptual Overview; CRISP-DM framework; EDA; Our Tools
+- Week 2: Case Study in Regression
+- Week 3: Case Study in Classification
+- Week 4: Case Study in Deep Learning and Transfer Learning
 
 #### Software Carpentry Bootcamp: Unix, Git, and Python
 
