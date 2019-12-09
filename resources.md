@@ -35,11 +35,11 @@ Researchers face a growing data management challenge, starting with data collect
 
 #### Concepts in Machine Learning
 
-This four week course is designed to introduce attendees to central concepts in machine learning as well as examples of applications in biomedical research. Each one hour lecture will emphasize conceptual and practical aspects of machine learning paradigms, explore the foundations of underlying mechanisms, and look at current or potential applications through examples or case studies. The course assumes a solid foundation in basic statistics, but does not assume any prior coding experience. At the end of this course, you will be able to understand the core differences between different forms of machine learning and consider their application with respect to a variety of problem spaces. This course (or equivalent knowledge/preparation) is intended as a prerequisite for future courses covering machine learning skills in both R and Python. Course materials [here](https://github.com/fredhutchio/concepts_machine_learning).
+This four week course is designed to introduce attendees to central concepts in machine learning as well as examples of applications in biomedical research. Each one hour lecture will emphasize conceptual and practical aspects of machine learning paradigms, explore the foundations of underlying mechanisms, and look at current or potential applications through examples or case studies. The course assumes a strong foundation in basic statistics, but does not assume any prior coding experience. At the end of this course, you will be able to understand the core differences between different forms of machine learning and consider their application with respect to a variety of problem spaces. This course (or equivalent knowledge/preparation) is intended as a prerequisite for future courses covering machine learning skills in both R and Python. Course materials [here](https://github.com/fredhutchio/concepts_machine_learning).
 * Week 1: Introduction and Conceptual Overview; Machine Learning and Experimental Design
-* Week 2: Supervised Learning via Regression
-* Week 3: Supervised Learning via Classification
-* Week 4: Unsupervised Learning via Dimensionality Reduction, Clustering, and Transfer Learning
+* Week 2: Case Study in Classification
+* Week 3: Case Study in Regression
+* Week 4: Case Study in Deep Learning and Transfer Learning
 
 #### Introduction to Git and GitHub
 
