@@ -11,16 +11,16 @@ suggested software.
 If you are an SCCA employee, please see [this section](#scca-employees) for more information on preparing for this class.
 
 **Concepts courses**
-- [Data for Data Science](resources/#data-for-data-science): [spreadsheet program](#spreadsheet-program) (like Microsoft Excel) and a [text editor](#text-editor) (like Atom)
-- [Concepts in Machine Learning](resources/#concepts-in-machine-learning): no software required
-- [Introduction to Git and GitHub](resources/#introduction-to-git-and-github): [GitHub Desktop App and command line tools](#git-and-github)
+- [Data for Data Science](http://www.fredhutch.io/resources/#data-for-data-science): [spreadsheet program](#spreadsheet-program) (like Microsoft Excel) and a [text editor](#text-editor) (like Atom)
+- [Concepts in Machine Learning](http://www.fredhutch.io/resources/#concepts-in-machine-learning): no software required
+- [Introduction to Git and GitHub](http://www.fredhutch.io/resources/#introduction-to-git-and-github): [GitHub Desktop App and command line tools](#git-and-github)
 
 **Coding courses**
-- [Introduction to R](resources/#introduction-to-r): [R and RStudio](r-and-rstudio)
-- [Introduction to Python](resources/#introduction-to-python): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks) and [plotnine](#python-plotnine)
-- [Intermediate Python: Machine Learning](resources/#intermediate-python-machine-learning): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks)
-- [Intermediate Python: Programming](resources/#intermediate-python-programming): your choice of [interface](#python-other-interfaces)
-- [Software Carpentry Bootcamp: Unix, Git, and Python](resources/#software-carpentry-bootcamp-unix-git-and-python): you will receive an email prior to class with software installation instructions
+- [Introduction to R](http://www.fredhutch.io/resources/#introduction-to-r): [R and RStudio](#r-and-rstudio)
+- [Introduction to Python](http://www.fredhutch.io/resources/#introduction-to-python): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks) and [plotnine](#python-plotnine)
+- [Intermediate Python: Machine Learning](http://www.fredhutch.io/resources/#intermediate-python-machine-learning): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks)
+- [Intermediate Python: Programming](http://www.fredhutch.io/resources/#intermediate-python-programming): your choice of [interface](#python-other-interfaces)
+- [Software Carpentry Bootcamp: Unix, Git, and Python](http://www.fredhutch.io/resources/#software-carpentry-bootcamp-unix-git-and-python): you will receive an email prior to class with software installation instructions
 
 ### Spreadsheet program
 
