@@ -16,6 +16,7 @@ Most classes meet for 1-2 hours a week for 3-4 weeks; see the class listings bel
 
 **Coding courses**
 - [Introduction to R](#introduction-to-r)
+- [Intermediate R: Machine Learning](#intermediate-r-machine-learning)
 - [Introduction to Python](#introduction-to-python)
 - [Intermediate Python: Programming](#intermediate-python-programming)
 - [Intermediate Python: Machine Learning](#intermediate-python-machine-learning)
@@ -55,6 +56,14 @@ This four-week course is designed to introduce attendees to R statistical progra
 * Week 2: Data types and structures; slicing and subsetting data
 * Week 3: Data manipulation with dplyr
 * Week 4: Data visualization in ggplot2
+
+#### Intermediate R: Machine Learning
+
+This four week course introduces participants to implementation of machine learning methods in R using RStudio. Each two hour session will include brief tutorials interspersed with challenge exercises, and assumes attendees are familiar with basic R syntax, using packages, and basic data manipulation using tidyverse. The course also assumes a strong foundation in basic statistics as well as prior/concurrent participation in the fredhutch.io course Concepts in Machine Learning (or equivalent experience). At the end of this course, you will be able to apply basic principles of machine learning to research questions and will have established a foundation for further exploration of machine learning techniques.
+- Week 1: Conceptual Overview; CRISP-DM framework; EDA; Our Tools
+- Week 2: Case Study in Regression
+- Week 3: Case Study in Classification
+- Week 4: Case Study in Deep Learning and Transfer Learning
 
 #### Introduction to Python
 
