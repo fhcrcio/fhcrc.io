@@ -17,6 +17,7 @@ If you are an SCCA employee, please see [this section](#scca-employees) for more
 
 **Coding courses**
 - [Introduction to R](http://www.fredhutch.io/resources/#introduction-to-r): [R and RStudio](#r-and-rstudio)
+- [Intermediate R: Machine Learning](http://www.fredhutch.io/resources/#intermediate-r-machine-learning): [R and RStudio](#r-and-rstudio)
 - [Introduction to Python](http://www.fredhutch.io/resources/#introduction-to-python): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks) and [plotnine](#python-plotnine)
 - [Intermediate Python: Machine Learning](http://www.fredhutch.io/resources/#intermediate-python-machine-learning): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks)
 - [Intermediate Python: Programming](http://www.fredhutch.io/resources/#intermediate-python-programming): your choice of [interface](#python-other-interfaces)
