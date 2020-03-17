@@ -17,6 +17,7 @@ please contact your instructor.
 - [Online courses](#online-courses)
 - [Course-specific instructions](#course-specific-software-requirements)
 
+
 ### In-person courses
 
 Please bring a laptop to each class with all required software for your course pre-installed.  
@@ -35,8 +36,14 @@ We will not be using any resources that require connecting to the Fred Hutch net
 You are welcome to use a personal computer for this class.
 
 Class meetings will be held via MS Teams.
-A link to join the meeting will be included in an Outlook calendar invitation.
+Connection information to join the meeting will be included in an Outlook calendar invitation,
+and also available on the course webpage included in the welcome email.
 Please confirm your internet connection is strong and stable for each class session.
+If you haven't used MS Teams before,
+here are some helpful hints:
+- You are not required to share your video during class, though you may find it useful to ask questions via audio. We ask that you keep yourself muted unless you are asking a question to minimize background noise, and use headphones if your physical location is especially noisy.
+- There is both a web version and stand-alone application for meetings in Teams. If you’re having trouble connecting on the web version, try switching browsers (we’ve had success with Safari and Chrome, but Firefox was problematic). You may need to update your security/privacy preferences to allow the software access to your microphone (we've encountered this issue on some Macs). If you can't get audio to work through Teams, you can also use a phone to call in (see connection details for the phone number and conference ID).
+- If you are having trouble with materials in class, your instructor may ask for you to share your screen. The screen share button can be found next to the audio and video buttons at the bottom of the Teams screen. You have the option to share either your entire screen or only a specific window (e.g., the software in which you are executing code); the latter is generally sufficient.
 
 
 ### Course specific software requirements
@@ -51,6 +58,7 @@ Please confirm your internet connection is strong and stable for each class sess
 - **Intermediate Python: Programming**: your choice of [interface](#python-other-interfaces), [course description](http://www.fredhutch.io/resources/#intermediate-python-programming)
 - **Software Carpentry Bootcamp: Unix, Git, and Python**: you will receive an email prior to class with software installation instructions, [course description](http://www.fredhutch.io/resources/#software-carpentry-bootcamp-unix-git-and-python)
 
+
 ### Spreadsheet program
 
 Spreadsheet programs (e.g., Microsoft Excel) are a useful way for us as humans to interact with data. The most common of these is Microsoft Excel. Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same.
@@ -60,6 +68,7 @@ If you are working on a personal computer that doesn't have a spreadsheet progra
 
 * Install LibreOffice by going to the [installation page](https://www.libreoffice.org/download/download/). The version for your operating system should automatically be selected. Click Download Version X.X.X (whichever is the most recent version). You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.
 * Once the installer is downloaded, double click on it and LibreOffice should install.
+
 
 ### Text editor
 
@@ -71,6 +80,7 @@ Text editors allow us to understand how computers may interact with our data. We
 Git is version control software, which helps you keep track of changes made to files.
 GitHub is a repository for data and code tracked with Git, and is a mechanism for publishing
 and collaborating on project development.
+
 
 #### GitHub Desktop App for Windows, macOS
 
@@ -85,11 +95,13 @@ please install the command line tools for Windows as described below.
 * We recommend installing [Atom](https://atom.io) if you do not already have a preferred text editor;
 this website will also auto-detect your operating system.
 
+
 #### Command line tools for Windows (only for optional third week)
 
 If you would like to work with Git on the command line in the third week of class on a Windows laptop,
 also install [Git for Windows](https://gitforwindows.org). Please note that this also installs Git Gui,
 which we will not use (unless you have difficulty installing the GitHub Desktop App, as described above).
+
 
 #### Command line tools for macOS (only for optional third week)
 
@@ -141,6 +153,7 @@ Follow the instructions below for your operating system to install them.
 If you are working on a computer owned by Fred Hutch,
 RStudio + R is available through the Self Service application.
 
+
 #### Windows
 
 * Download the installer for the latest version of R from [CRAN](http://cran.r-project.org/bin/windows/base/release.htm).
@@ -150,6 +163,7 @@ RStudio + R is available through the Self Service application.
 * Under _Installers_, click the link for the _Windows Vista/7/8/10_ installer to download it.
 * Double-click the downloaded `.exe` file and follow the prompts to install (default options are acceptable).
 * Once both are installed, launch RStudio and make sure there are no error messages.
+
 
 #### macOS
 
