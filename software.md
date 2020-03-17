@@ -3,25 +3,53 @@ layout: page
 title: Software
 ---
 
-All software required for courses is open source and free unless otherwise noted.
-If you have any questions or problems regarding software installation, please contact
-your instructor. Please see links for each course to required and
-suggested software.
+Our classes are designed to help you learn relevant concepts and skills in ways that you can apply directly to your own research.
+You should be prepared to participate in each class by following along with the course material and completing challenge exercises provided by the instructor.
 
-If you are an SCCA employee, please see [this section](#scca-employees) for more information on preparing for this class.
+All software is open source and free unless otherwise noted.
+Software installations for most classes should take less than 10 minutes.
+If you already have the required software installed,
+you may wish to check and ensure you have upgraded to the most current versions.
+If you have any questions or problems regarding software installation,
+please contact your instructor.
 
-**Concepts courses**
-- [Data for Data Science](http://www.fredhutch.io/resources/#data-for-data-science): [spreadsheet program](#spreadsheet-program) (like Microsoft Excel) and a [text editor](#text-editor) (like Atom)
-- [Concepts in Machine Learning](http://www.fredhutch.io/resources/#concepts-in-machine-learning): no software required
-- [Introduction to Git and GitHub](http://www.fredhutch.io/resources/#introduction-to-git-and-github): [GitHub Desktop App and command line tools](#git-and-github)
+- [In-person courses](#in-person-courses)
+- [Online courses](#online-courses)
+- [Course-specific instructions](#course-specific-software-requirements)
 
-**Coding courses**
-- [Introduction to R](http://www.fredhutch.io/resources/#introduction-to-r): [R and RStudio](#r-and-rstudio)
-- [Intermediate R: Machine Learning](http://www.fredhutch.io/resources/#intermediate-r-machine-learning): [R and RStudio](#r-and-rstudio)
-- [Introduction to Python](http://www.fredhutch.io/resources/#introduction-to-python): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks) and [plotnine](#python-plotnine)
-- [Intermediate Python: Machine Learning](http://www.fredhutch.io/resources/#intermediate-python-machine-learning): [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks)
-- [Intermediate Python: Programming](http://www.fredhutch.io/resources/#intermediate-python-programming): your choice of [interface](#python-other-interfaces)
-- [Software Carpentry Bootcamp: Unix, Git, and Python](http://www.fredhutch.io/resources/#software-carpentry-bootcamp-unix-git-and-python): you will receive an email prior to class with software installation instructions
+### In-person courses
+
+Please bring a laptop to each class with all required software for your course pre-installed.  
+If you do not have a laptop assigned to you by Fred Hutch,
+you are welcome to bring your personal laptop for use in class.
+If neither of these options are available,
+please contact your instructor to arrange use of one of computers available in the Coop Lab for classroom use.
+
+
+### Online courses
+
+Prior to the first class meeting,
+please ensure you have all required software for your course installed.
+We will not be using any resources that require connecting to the Fred Hutch network
+(e.g., no VPN required, unless you are using a work-provided laptop that requires remote login for all activities).
+You are welcome to use a personal computer for this class.
+
+Class meetings will be held via MS Teams.
+A link to join the meeting will be included in an Outlook calendar invitation.
+Please confirm your internet connection is strong and stable for each class session.
+
+
+### Course specific software requirements
+
+- **Data for Data Science**: [spreadsheet program](#spreadsheet-program) (like Microsoft Excel) and a [text editor](#text-editor) (like Atom), [course description](http://www.fredhutch.io/resources/#data-for-data-science)
+- **Concepts in Machine Learning**: no software required, [course description](http://www.fredhutch.io/resources/#concepts-in-machine-learning)
+- **Introduction to Git and GitHub**: [GitHub Desktop App and command line tools](#git-and-github), [course descriptions](http://www.fredhutch.io/resources/#introduction-to-git-and-github)
+- **Introduction to R**: [R and RStudio](#r-and-rstudio), [course description](http://www.fredhutch.io/resources/#introduction-to-r)
+- **Intermediate R: Machine Learning**: [R and RStudio](#r-and-rstudio), [course description](http://www.fredhutch.io/resources/#intermediate-r-machine-learning)
+- **Introduction to Python**: [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks) and [plotnine](#python-plotnine), [course description](http://www.fredhutch.io/resources/#introduction-to-python)
+- **Intermediate Python: Machine Learning**: [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks), [course description](http://www.fredhutch.io/resources/#intermediate-python-machine-learning)
+- **Intermediate Python: Programming**: your choice of [interface](#python-other-interfaces), [course description](http://www.fredhutch.io/resources/#intermediate-python-programming)
+- **Software Carpentry Bootcamp: Unix, Git, and Python**: you will receive an email prior to class with software installation instructions, [course description](http://www.fredhutch.io/resources/#software-carpentry-bootcamp-unix-git-and-python)
 
 ### Spreadsheet program
 
@@ -134,7 +162,3 @@ RStudio + R is available through the Self Service application.
 * Under _Installers_, click the link for the your OSX version's installer to download it.
 * Double-click the downloaded `.dmg` file, then open the RStudio folder that appears on your desktop. Drag the RStudio icon into the Applications folder.
 * Once everything is installed, launch RStudio and make sure there are no error messages.
-
-### SCCA employees
-
-SCCA employees cannot connect to Marconi, the main wireless network at Fred Hutch, and must use the Fred Hutch Guest network. When combined with The configuration of SCCA laptops and required remote logins, this makes it very difficult to interact with the course materials. We recommend using a personal computer for this course. If one is not available, please contact your instructor to arrange use of one of the laptops located in the Coop Lab.
