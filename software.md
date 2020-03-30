@@ -51,7 +51,7 @@ here are some helpful hints:
 - **Data for Data Science**: [spreadsheet program](#spreadsheet-program) (like Microsoft Excel) and a [text editor](#text-editor) (like Atom), [course description](http://www.fredhutch.io/resources/#data-for-data-science)
 - **Concepts in Machine Learning**: no software required, [course description](http://www.fredhutch.io/resources/#concepts-in-machine-learning)
 - **Introduction to Git and GitHub**: [GitHub Desktop App and command line tools](#git-and-github), [course descriptions](http://www.fredhutch.io/resources/#introduction-to-git-and-github)
-- **Introduction to R**: [R and RStudio](#r-and-rstudio), [course description](http://www.fredhutch.io/resources/#introduction-to-r)
+- **Introduction to R**: [R and RStudio](#r-and-rstudio) and [tidyverse](#tidyverse), [course description](http://www.fredhutch.io/resources/#introduction-to-r)
 - **Intermediate R: Machine Learning**: [R and RStudio](#r-and-rstudio), [course description](http://www.fredhutch.io/resources/#intermediate-r-machine-learning)
 - **Introduction to Python**: [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks) and [plotnine](#python-plotnine), [course description](http://www.fredhutch.io/resources/#introduction-to-python)
 - **Intermediate Python: Machine Learning**: [Jupyter notebooks, via Anaconda](#python-jupyter-notebooks), [course description](http://www.fredhutch.io/resources/#intermediate-python-machine-learning)
@@ -176,3 +176,11 @@ RStudio + R is available through the Self Service application.
 * Under _Installers_, click the link for the your OSX version's installer to download it.
 * Double-click the downloaded `.dmg` file, then open the RStudio folder that appears on your desktop. Drag the RStudio icon into the Applications folder.
 * Once everything is installed, launch RStudio and make sure there are no error messages.
+
+
+### tidyverse
+
+- Open Rstudio. 
+- Click the Packages tab in the lower right panel. 
+- Click the Install button (upper left corner of the panel). In the empty space for Packages, type `tidyverse`. The other defaults (Install from CRAN and the Install to Library path) should be ok. Make sure the box next to "Install dependencies" is checked, and click Install.
+- If your installation is successful, you should see tidyverse appear in the list below. 
