@@ -136,6 +136,10 @@ Python 3.x for your particular operating system.
 * Double-click the downloaded file and follow the prompts to install Anaconda (default options are acceptable).
 * For assistance troubleshooting installation, please go [here](https://jupyter.readthedocs.io/en/latest/install.html).
 
+To check if you've successfully installed Anaconda,
+open the Anaconda Navigator application and click on the button to launch a Jupyter notebook.
+You should see a file browser open in your default web browsing application.
+
 
 ### Python: plotnine
 
@@ -149,6 +153,15 @@ For both MacOSX and Windows, copy and paste the following code onto the
 command line (in the window of the program you just opened) and execute by hitting "Enter":
 
 `conda install -c conda-forge plotnine`
+
+If you are working on MacOSX and receive an error for the command above indicating "conda is not found",
+but you have successfully installed Anaconda (see above),
+you may need to activate `conda` for `zsh` (the new default shell as of MacOSX Catalina)
+by executing the following command in Terminal:
+```
+/anaconda3/bin/conda init zsh
+```
+Please note that `/anaconda3/` represents the installation location for Anaconda on your computer.
 
 
 ### Python: other interfaces
