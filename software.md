@@ -82,7 +82,7 @@ GitHub is a repository for data and code tracked with Git, and is a mechanism fo
 and collaborating on project development.
 
 
-#### GitHub Desktop App for Windows, macOS
+#### GitHub Desktop App
 
 * If you do not already have one, please register for a [GitHub](https://github.com) account.
 Please note that your name and email will be publicly visible through GitHub by default,
@@ -94,22 +94,37 @@ and allow you to download and install the software. If you have difficulty insta
 please install the command line tools for Windows as described below.
 * We recommend installing [Atom](https://atom.io) if you do not already have a preferred text editor;
 this website will also auto-detect your operating system.
+* If you would like to participate in the optional
+third class for command line git, please see the section below for more information.
 
-
-#### Command line tools for Windows (only for optional third week)
+#### Command line tools: Windows (only for optional third class)
 
 If you would like to work with Git on the command line in the third week of class on a Windows laptop,
-also install [Git for Windows](https://gitforwindows.org). Please note that this also installs Git Gui,
+also install [Git for Windows](https://gitforwindows.org). Please note that this also installs Git GUI,
 which we will not use (unless you have difficulty installing the GitHub Desktop App, as described above).
 
 
-#### Command line tools for macOS (only for optional third week)
+#### Command line tools: Mac (only for optional third week)
 
 If you would like to work with Git on the command line in the third week of class on a Mac laptop,
-you will also need to install command line Git tools by clicking on "GitHub Desktop" in the top menu of the app,
-then selecting "Install Command Line Tool." You will then be able to access the software through
-Terminal, which you can locate by clicking on your Desktop, selecting "Go" in the menu at the top,
-and clicking on "Utilities."
+you will need to ensure the command line git tools have been installed.
+
+Please open a Terminal window and execute `git status`.
+If you receive the following error:
+```
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools),
+missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+```
+Execute the following line of code to install the command line tools: `xcode-select --install`.
+This error has occurred for MacOSX Catalina.
+
+The following error is what you should expect to see if you have successfully installed git:
+```
+fatal: not a git repository (or any of the parent directories): .git
+```
+If you receive a notification that git is not found,
+you may need to install command line Git tools by clicking on "GitHub Desktop" in the top menu of the app,
+then selecting "Install Command Line Tool."
 
 
 ### Python: Jupyter notebooks
