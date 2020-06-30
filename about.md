@@ -14,10 +14,8 @@ fredhutch.io promotes bioinformatics education and access to computational metho
 
 ### People
 
-**Gabrielle Barnes**: project coordinator
-
 **Kate Hertweck**: training manager, instructor, and curriculum developer ([GitHub](https://github.com/k8hertweck), [twitter](https://twitter.com/k8hert))
 
-**Erick Matsen**: principal investigator ([website](http://matsen.fredhutch.org/))
+**Erick Matsen**: faculty advisor ([website](http://matsen.fredhutch.org/))
 
-fredhutch.io is reviewed and funded by the Public Health Sciences division.
+fredhutch.io is supported by Shared Resources as a part of Interdisciplinary Science Administration.
